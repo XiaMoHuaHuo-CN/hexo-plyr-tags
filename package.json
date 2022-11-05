@@ -1,0 +1,11 @@
+{
+  "name": "hexo-plyr-tags",
+  "version": "1.0.0",
+  "description": "快速添加plyr媒体播放器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XiaMoHuaHuo_CN",
+  "license": "MIT"
+}
